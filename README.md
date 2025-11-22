@@ -1,6 +1,6 @@
 ## My Portfolio Website
 
-Welcome to my portfolio website! This project is a simple two-page site that includes a homepage and a contact page. It was created usi HTML and basic CSS to provide a clean and straightforward user experience.
+Welcome to my portfolio website! This project is a simple two-page site that includes a home page and a contact page. It was created usig HTML and basic CSS to provide a clean and straightforward user experience.
 
 ## pages
 - **Home Page:** A brief introduction and welcome message
